@@ -1,0 +1,2 @@
+# TijaraX
+Handelsplattform
