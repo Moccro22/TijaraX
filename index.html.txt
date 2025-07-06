@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tijara – Die Handelsplattform</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Tijara</h1>
+    <nav>
+      <button onclick="toggleUser('einzel')">Einzelhändler</button>
+      <button onclick="toggleUser('gross')">Großhändler</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="angebote">
+      <!-- Hier erscheinen Angebote -->
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Tijara – Kostenlos handeln, einfach verkaufen</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
